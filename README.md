@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aesber28
 - 👀 I have done programming languages such as Python, Java, C#, Kotlin, GDScript and web designing
-- 🌱 I’m currently learning game development (Kotlin)
 - 📫 How to reach me @esberallie28@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like reading and gem painting.
